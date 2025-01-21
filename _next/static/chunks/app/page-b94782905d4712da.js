@@ -289,6 +289,20 @@
                                     className: "object-contain"
                                 })
                             })
+                        }),(0, a.jsx)("div", {
+                            className: "flex justify-center gap-8 items-center",
+                            children: (0, a.jsx)("a", {
+                                href: "https://t.me/",
+                                target: "_blank",
+                                rel: "noopener noreferrer",
+                                className: "relative w-12 h-12 hover:scale-110 transition-transform duration-300 [image-rendering:pixelated] filter hover:brightness-125",
+                                children: (0, a.jsx)(r.default, {
+                                    src: "/pix_tg.png",
+                                    alt: "X (Twitter)",
+                                    fill: !0,
+                                    className: "object-contain"
+                                })
+                            })
                         }),  (0, a.jsx)(n, {}), (0, a.jsx)(o, {}), (0, a.jsx)(d, {})]
                     })
                 }
