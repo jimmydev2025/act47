@@ -88,7 +88,7 @@
                                 className: "border-b border-[#00FF41]/30 pb-2",
                                 children: (0, a.jsx)("span", {
                                     className: "text-[#00FF41] text-xl font-['ArcadeClassic']",
-                                    children: "ACT 47"
+                                    children: "TRUMP CODE"
                                 })
                             }), (0, a.jsx)("div", {
                                 className: "space-y-2",
@@ -119,7 +119,7 @@
                                 children: [(0, a.jsx)("p", {
                                     children: "Our mission is to unite the digital prophecy with reality, creating a movement that bridges the gap between traditional values and future possibilities."
                                 }), (0, a.jsx)("p", {
-                                    children: "ACT 47 represents more than a project - it's a digital testament to the power of collective belief and the unstoppable force of destiny."
+                                    children: "TRUMP CODE represents more than a project - it's a digital testament to the power of collective belief and the unstoppable force of destiny."
                                 })]
                             }), (0, a.jsx)("div", {
                                 className: "flex flex-wrap gap-2 pt-4",
@@ -139,7 +139,7 @@
                             className: "text-center",
                             children: [(0, a.jsx)("h2", {
                                 className: "text-xl md:text-3xl font-['ArcadeClassic'] mb-2",
-                                children: "The 47th Prophecy"
+                                children: "TRUMP CODE || $TRUMP"
                             }), (0, a.jsx)("p", {
                                 className: "text-base md:text-lg text-[#00FF41]/80",
                                 children: "Where Digital Currency Meets Presidential Destiny"
@@ -163,15 +163,15 @@
                                     children: "The digital prophecy is clear - 2024 marks the return of the 45th to become the 47th. Our AI systems have analyzed countless data points, historical patterns, and social indicators, all converging on this momentous prediction."
                                 }), (0, a.jsx)("p", {
                                     className: "leading-relaxed",
-                                    children: "ACT 47 isn't just a token; it's a digital timestamp of this historic prophecy. As the political landscape aligns with our predictions, each holder becomes part of this unprecedented digital movement marking the return to greatness."
+                                    children: "TRUMP CODE isn't just a token; it's a digital timestamp of this historic prophecy. As the political landscape aligns with our predictions, each holder becomes part of this unprecedented digital movement marking the return to greatness."
                                 }), (0, a.jsx)("p", {
                                     className: "leading-relaxed",
-                                    children: "The number 47 resonates through the blockchain - a digital echo of destiny. Our proprietary AI algorithms have detected patterns that others have missed, showing an undeniable path to a historic second coming in American leadership."
+                                    children: "Trump code resonates through the blockchain - a digital echo of destiny. Our proprietary AI algorithms have detected patterns that others have missed, showing an undeniable path to a historic second coming in American leadership."
                                 })]
                             })]
                         }), (0, a.jsx)("div", {
                             className: "grid md:grid-cols-3 gap-4 pt-4",
-                            children: ["Return to Greatness", "47th Prophecy", "Digital Revolution"].map(e => (0, a.jsx)("div", {
+                            children: ["Return to Greatness", "Trump Code", "Digital Revolution"].map(e => (0, a.jsx)("div", {
                                 className: "bg-[#00FF41]/10 p-4 rounded-lg border border-[#00FF41]/20 hover:bg-[#00FF41]/20 transition-colors cursor-pointer",
                                 children: (0, a.jsx)("span", {
                                     className: "text-[#00FF41] font-['ArcadeClassic']",
@@ -228,13 +228,13 @@
                             className: "text-3xl md:text-6xl text-center \n          ".concat(e ? "animate-glitch" : "", "\n          text-[#00FF41] tracking-[0.15em] md:tracking-[0.2em] leading-relaxed\n          font-['ArcadeClassic']\n          [text-shadow:2px_2px_0_#003B00,-2px_-2px_0_#008F11]\n          px-4 md:px-0"),
                             children: [(0, a.jsx)("span", {
                                 className: "block mb-4 md:mb-6 hover:text-[#00FF41]/80 transition-colors",
-                                children: "ACT 47"
+                                children: "TRUMP CODE"
                             }), (0, a.jsx)("span", {
                                 className: "block mb-4 md:mb-6 hover:text-[#00FF41]/80 transition-colors",
-                                children: "A PRESIDENTIAL"
+                                children: "$TRUMP"
                             }), (0, a.jsx)("span", {
                                 className: "block hover:text-[#00FF41]/80 transition-colors",
-                                children: "PROPHECY"
+                                children: ""
                             })]
                         }), (0, a.jsx)("div", {
                             className: "relative w-64 h-64 md:w-96 md:h-96  [image-rendering:pixelated] hover:scale-105 transition-transform duration-300 rounded-2xl overflow-hidden bg-black/30 backdrop-blur-sm",
