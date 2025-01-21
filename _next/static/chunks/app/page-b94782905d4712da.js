@@ -263,7 +263,7 @@
                         }), (0, a.jsx)("div", {
                             className: "flex justify-center gap-8 items-center",
                             children: (0, a.jsx)("a", {
-                                href: "https://x.com/",
+                                href: "https://x.com/TrumpCodeonSol",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: "relative w-12 h-12 hover:scale-110 transition-transform duration-300 [image-rendering:pixelated] filter hover:brightness-125",
@@ -292,7 +292,7 @@
                         }),(0, a.jsx)("div", {
                             className: "flex justify-center gap-8 items-center",
                             children: (0, a.jsx)("a", {
-                                href: "https://t.me/",
+                                href: "https://t.me/TrumpCodeonSol",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: "relative w-12 h-12 hover:scale-110 transition-transform duration-300 [image-rendering:pixelated] filter hover:brightness-125",
