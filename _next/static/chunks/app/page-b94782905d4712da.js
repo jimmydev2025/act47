@@ -278,7 +278,7 @@
                         (0, a.jsx)("div", {
                             className: "flex justify-center gap-8 items-center",
                             children: (0, a.jsx)("a", {
-                                href: "https://x.com/",
+                                href: "https://dextools.io",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: "relative w-12 h-12 hover:scale-110 transition-transform duration-300 [image-rendering:pixelated] filter hover:brightness-125",
