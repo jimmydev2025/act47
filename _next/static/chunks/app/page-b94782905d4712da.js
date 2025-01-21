@@ -73,7 +73,7 @@
                     })
                 },
                 n = () => {
-                    let [e, t] = (0, l.useState)(!1), [s, r] = (0, l.useState)(""), i = "00000000000000000000000000000000000000", n = async () => {
+                    let [e, t] = (0, l.useState)(!1), [s, r] = (0, l.useState)(""), i = "ESopURDF3m4aByqhEeSRFiNHraX3aZizKWvsMQk3tRmP", n = async () => {
                         try {
                             await navigator.clipboard.writeText(i), r("Copied!"), setTimeout(() => r(""), 2e3)
                         } catch (e) {
@@ -278,7 +278,7 @@
                         (0, a.jsx)("div", {
                             className: "flex justify-center gap-8 items-center",
                             children: (0, a.jsx)("a", {
-                                href: "https://dextools.io",
+                                href: "https://www.dextools.io/app/en/solana/pair-explorer/ESopURDF3m4aByqhEeSRFiNHraX3aZizKWvsMQk3tRmP?t=1737472287050",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: "relative w-12 h-12 hover:scale-110 transition-transform duration-300 [image-rendering:pixelated] filter hover:brightness-125",
